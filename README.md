@@ -1,2 +1,2 @@
 # Preet-Kumar
-author - preet kumar
+author - preet kumar sawarn
